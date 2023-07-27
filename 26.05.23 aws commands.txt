@@ -1,0 +1,52 @@
+https://awscli.amazonaws.com/AWSCLIV2.msi
+Mohammed Khaliq3:05 PM
+
+msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
+
+pip install awscli
+pip install awscli
+
+Mohammed Khaliq3:09 PM
+
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+Mohammed Khaliq3:27 PM
+rm .aws/config
+rm .aws/credentials
+
+Mohammed Khaliq3:29 PM
+cd ~
+ls -a
+
+Mohammed Khaliq3:31 PM
+ls -a .aws
+ls -a .aws
+
+Mohammed Khaliq3:33 PM
+rm .aws/credentials
+
+Mohammed Khaliq3:35 PM
+cd %userprofile%
+dir /ah
+
+Mohammed Khaliq3:37 PM
+del .aws\config
+del .aws\credentials
+
+Mohammed Khaliq3:43 PM
+https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-instances.html
+
+Mohammed Khaliq3:52 PM
+ami-053b0d53c279acc90
+
+
+https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-instances.html
+
+Mohammed Khaliq4:18 PM
+cd %userprofile%
+dir /ah
+You3:37 PM
+del .aws\config
+del .aws\credentials
+
+
